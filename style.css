@@ -375,6 +375,12 @@ body {
   font-size: 20px;
   color: white;
 }
+
+.button:hover {
+  background-color: #67BEEF;
+}
+
+
 .department-shop-icon {
   position: absolute;
   top: 635px;
